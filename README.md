@@ -7,8 +7,6 @@ DBO Technical Test is built on top of Bootstrap 4, Vuejs and Vue-router. To get 
 3. Type `npm install` in the source folder where `package.json` is located
 4. Type `npm run serve` to start the development server
 
-## [Documentation]
-
 ## :cloud: Build Setup
 
 ### install dependencies
