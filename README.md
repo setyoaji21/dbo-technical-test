@@ -16,6 +16,5 @@ DBO Technical Test is built on top of Bootstrap 4, Vuejs and Vue-router. To get 
 
 ## :clipboard: Contribution guide
 * `npm install` or `yarn install`
-* Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
